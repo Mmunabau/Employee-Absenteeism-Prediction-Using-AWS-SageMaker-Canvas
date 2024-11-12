@@ -32,8 +32,8 @@ To improve model performance, further data exploration and feature engineering c
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Launch EMR WORKSPACE Running PySpark: <br/>
- <img src="example.png" height="80%" width="80%" alt="TF-IDF Steps"/>
+creat a sagemaker Domain launch tap the sagemaker canvas: <br/>
+ <img src="image/sg-1.png" height="80%" width="80%" alt="TF-IDF Steps"/>
 <br />
  
 <br />
