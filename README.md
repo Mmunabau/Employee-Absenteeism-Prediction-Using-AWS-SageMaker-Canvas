@@ -32,25 +32,35 @@ To improve model performance, further data exploration and feature engineering c
 <h2>Program walk-through:</h2>
 
 <p align="center">
-creat a sagemaker Domain launch tap the sagemaker canvas: <br/>
+Creat a sagemaker Domain launch tap the sagemaker canvas: <br/>
  <img src="image/sg-1.png" height="80%" width="80%" alt="TF-IDF Steps"/>
 <br />
  
 <br />
-Implenting raw data from wikipedia to the custom TF-IDF model:  <br/>
-<img src="example1.png" height="80%" width="80%" alt="TF-IDF Steps"/>
+Navigate to your s3 bucket upload your Dataset in csv format:  <br/>
+<img src="image/sg-2.png" height="80%" width="80%" alt="TF-IDF Steps"/>
 <br />
 
 <br />
-Processing and analysing Data efficiently Using the (KEY:SHIFT ENTER) <br/>
-<img src="example 2.png" height="80%" width="80%" alt="TF-IDF Steps"/>
+Creat Model <br/>
+<img src="image/sg-3.png" height="80%" width="80%" alt="TF-IDF Steps"/>
 <br />
 
 <br />
-TF-IDF Data model complete:  <br/>
-<img src="example3.png" height="80%" width="80%" alt="TF-IDF Steps"/>
+Import your dataset into the model from the source(s3):  <br/>
+<img src="image/sg-4.png" height="80%" width="80%" alt="TF-IDF Steps"/>
 <br />
+select the column you trying to predict:  <br/>
+<img src="image/sg-5.png" height="80%" width="80%" alt="TF-IDF Steps"/>
 <br />
+selcet the click build:  <br/>
+<img src="image/sg-6.png" height="80%" width="80%" alt="TF-IDF Steps"/>
+<br />
+the below image is your model status/click predict:  <br/>
+<img src="image/sg-7.png" height="80%" width="80%" alt="TF-IDF Steps"/>
+<br />
+import your predict dataset from (s3) and download:  <br/>
+<img src="image/sg-9.png" height="80%" width="80%" alt="TF-IDF Steps"/>
 </p>
 
 <!--
